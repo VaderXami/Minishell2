@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2018
 ** header
 ** File description:
-** matchstick
+** header
 */
 
 #ifndef	__SHELL_H_
